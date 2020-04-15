@@ -3,6 +3,7 @@
 [![codecov](https://codecov.io/gh/zhoutaoo/SpringCloud/branch/master/graph/badge.svg)](https://codecov.io/gh/zhoutaoo/SpringCloud)
 
 ## 快速开始
+spring clpoud 开发脚手架
 
 ### 先决条件
 
